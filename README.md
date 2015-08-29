@@ -9,8 +9,7 @@ public class Hello {
 	}
 	
 	public void sayIt() {
-		//System.out.println("Hello World!!");
-		System.out.println("What up, bitches!");
+		System.out.println("Hello World!!");
 	}
 
 }
